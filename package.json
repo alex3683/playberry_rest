@@ -1,0 +1,13 @@
+{
+   "name": "playberry",
+   "version": "0.1.0",
+   "dependencies": {
+      "speaker": "x.x.x",
+      "spotify-web": "x.x.x",
+      "lame": "x.x.x",
+      "express": "3.x.x",
+      "q": "0.9.x",
+      "xml2js": "0.2.x",
+      "lodash": "1.x.x"
+   }
+}
